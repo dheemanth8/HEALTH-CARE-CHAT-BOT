@@ -1,1 +1,1 @@
-hi this is an health care chat bo
+hi this is an health care chat bot
